@@ -22,8 +22,11 @@ PUT
 ##### Params:
 
 line1:Lorem
+
 line2:Ipsum
+
 city:NY
+
 pincode:12345
 
 Observe the output in storage/logs/laravel.log file
